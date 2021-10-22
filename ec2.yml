@@ -1,0 +1,5 @@
+- name: Configure server
+  hosts: localhost
+  roles:
+          - role: kukareja_simran.ec2
+
